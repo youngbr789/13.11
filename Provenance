@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Provenance Equine Bodywork</title>
+<style>
+h1{color:red}; {margin:auto};
+h1{background-color:blue};
+p {font-family:times new roman;font-size:16px;}
+</style>
+
+<body bgcolor="azure">
+
+<h1>Welcome to Provenance Equine Bodywork!</h1>
+
+
+
+Connect with Us! <a href="https://www.facebook.com/healthyhorse65/?ref=bookmarks">
+<img src="https://www.facebook.com/healthyhorse65/?ref=bookmarks" target="_blank">Facebook</a>
+
+<img src="C:\Users\Brandy\Documents\Provenance Equine Bodywork\PractitionerLogo.jpg" height="100px" width="150px" align="right">
+
+<br>
+string name = "Brandy";
+var date = DateTime.Now;
+
+Console.WriteLine($"Hello, {name}! Today is {date.DayOfWeek}, it's {date:HH:mm} now.");
+
+
+<br>
+<h1>Give your horse the gift of relaxation.</h1>
+
+<p>
+Acupressure can aid in the following:
+
+<ul>
+<li>Increase Bloodflow</li>
+<li>Relaxes Muscles & Sinews</li>
+<li>May Decrease Risk of Injury</li>
+<li>May Increase Recovery Time</li>
+</ul>
+</p>
+
+
+<br>
+
+
+<img src="C:\Users\Brandy\Documents\Provenance Equine Bodywork\Images\blankpony.jpg" height="400px" width="500px">
+
+
+<br>
+<button>Schedule Today</button>
+<br>
+
+<br>
+
+<table>
+<thead>
+<tr>
+<th>Type</th>
+<th>Time</th>
+<th>Price</th>
+</tr>
+</thead>
+<br>
+
+<tbody>
+<tr>
+<td>Acu-Relax</td><br>
+<td>60 minutes</td><br>
+<td>$60</td><br>
+</tr>
+<br>
+<tr>
+<td>Acu-Massage</td><br>
+<td>60 minutes</td><br>
+<td>$60</td><br>
+</tr>
+<br>
+<tr>
+<td>Acu-Release</td><br>
+<td>90 minutes</td><br>
+<td>$80</td><br>
+</tr>
+</table>
+
+</body>
+
+
+
+
+</html>
